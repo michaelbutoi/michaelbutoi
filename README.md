@@ -7,7 +7,7 @@ I'm looking for **junior software, data or IT roles in agri-tech, food and dairy
 ## What I've worked on
 
 - **TAPS (INF 370 capstone, 2025)** - Team of five. A web platform built with .NET Web API, SQL Server, TypeScript and Azure, including blockchain-based certificates. Overall winners of the capstone, plus four awards.
-- **Dairy farm dashboard (2026)** - A live dashboard for a dairy farm, built with Claude connected to the farm's Google Sheets and Dropbox. It refreshes automatically every Monday and showed that feed demand was outrunning grass growth, which helped guide culling and feed purchases.
+- **Dairy farm dashboard (2026)** - Paid project for a dairy farm: a custom dashboard that pulls the farm's Google Sheets and Dropbox data into one place, refreshes every Monday at 06:00, and can be changed by managers with plain-language instructions. It showed that feed demand was outrunning grass growth, which guided culling and feed purchases. I used Claude (AI) heavily to build it.
 - **Honours research (2026)** - A systematic review (PRISMA, 49 studies) plus expert interviews on explainable AI, cognitive load and trust in smart grids.
 
 ## Skills
